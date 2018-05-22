@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{07E94815-7DF8-43D7-885C-419D0E6F3E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype2", "Prototype2\Prototype2.csproj", "{EC80E071-5A78-4142-AFC0-E3993E7EC632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E94815-7DF8-43D7-885C-419D0E6F3E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E94815-7DF8-43D7-885C-419D0E6F3E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E94815-7DF8-43D7-885C-419D0E6F3E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E94815-7DF8-43D7-885C-419D0E6F3E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC80E071-5A78-4142-AFC0-E3993E7EC632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC80E071-5A78-4142-AFC0-E3993E7EC632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC80E071-5A78-4142-AFC0-E3993E7EC632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC80E071-5A78-4142-AFC0-E3993E7EC632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B26093DC-9789-4F1E-9A85-3CAB7E1D8593}
+	EndGlobalSection
+EndGlobal
