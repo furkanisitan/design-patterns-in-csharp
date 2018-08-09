@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <dependency>
+    <sample msg="Kotlin Programming Language" displayer="page" />
+  </dependency>
+</config>
